@@ -14,7 +14,9 @@
 
 ### 1.1 下载镜像文件
 
-访问[下载链接](http://download.friendlyelec.com/NanoPiR5S)下载官方镜像文件（位于“01_Official images”目录）。![image-20251016164342664](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20251016164342664.png)
+访问[下载链接](http://download.friendlyelec.com/NanoPiR5S)下载官方镜像文件（位于“01_Official images”目录）。<img width="324" height="26" alt="image" src="https://github.com/user-attachments/assets/e6ecb39c-a404-4708-9675-571ffa54a7d5" />
+<img width="426" height="39" alt="image" src="https://github.com/user-attachments/assets/7a65c0ce-3e09-44df-ae3d-986f3df631bb" />
+
 
 下载上图镜像文件。
 
