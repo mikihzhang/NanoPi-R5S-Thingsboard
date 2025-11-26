@@ -24,7 +24,8 @@
 
 访问[下载链接](http://download.friendlyelec.com/NanoPiR5S)（在“05_Tools”目录中）下载win32diskimager.rar
 
-![image-20251016163852674](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20251016163852674.png)
+<img width="400" height="198" alt="image" src="https://github.com/user-attachments/assets/f6a6f4f9-ff22-4d00-ad52-db2b86bf9d78" />
+
 
 
 
@@ -42,7 +43,7 @@
 
 - 在 Windows 系统中以管理员身份运行 win32diskimager 实用程序。在实用程序的主窗口中，选择 SD 卡的驱动器、所需的映像文件，然后点击“写入”即可开始刷写 SD 卡。
 
-  ![image-20251016165029612](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20251016165029612.png)
+ <img width="400" height="199" alt="image" src="https://github.com/user-attachments/assets/060a9e69-1198-4d8d-9ba3-525faddd6193" />
 
 - 取出SD卡，插入NanoPi-R5S的microSD卡槽；
 
